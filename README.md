@@ -19,7 +19,6 @@
   </br>
   <div align="left">👨‍💻 All of my projects are available at my <a href="https://aradbivas.netlify.app/" target="blank">Portfolio</a>
 </div>
-</br>
 <h3 align="left">Languages and Tools:</h3>
  <p align="center">
   <a href="https://skillicons.dev">
