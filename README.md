@@ -42,7 +42,7 @@
 
   <h3 align="left">Socials:</h3>
   <div align="left">
- 📫 **AradBivas@Gmail.com**
+ 📫 **AradBivas@gmail.com**
 </div>
 </br>
 <p align="left">
